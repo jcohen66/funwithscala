@@ -150,6 +150,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/src/main/scala/com/example/recursion/TailRecursion.scala">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
